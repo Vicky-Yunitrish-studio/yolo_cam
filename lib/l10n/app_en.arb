@@ -1,0 +1,11 @@
+{
+  "@@locale":"en",
+  "dark":"Dark",
+  "light":"Light",
+  "system":"System",
+  "default_value":"Default",
+  "language":"Language",
+  "theme":"Theme",
+
+  "title_main":"main page"
+}
